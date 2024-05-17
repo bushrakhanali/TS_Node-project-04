@@ -1,0 +1,19 @@
+{
+  "name": "ts_projects-04",
+  "version": "1.0.1",
+  "description": "Built with TypeScript and Node.js, this currency converter CLI powered by Inquirer simplifies currency conversion tasks with a user-friendly interface.",
+  "main": "class-04.js",
+  "type": "module",
+  "bin" : "class-04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BUSHRA KHAN",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
